@@ -17,4 +17,4 @@ To start the project you need to install pygame and pyos
 
 ### Installing
 
-```pip install pygame``` or ```pip install pyos```
+```pip install pygame``` and ```pip install pyos```
