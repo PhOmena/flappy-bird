@@ -13,11 +13,11 @@
 
 ## Para rodar a aplicação
 
-> OBS: Deve-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
-
-Execute ```pip install pygame```, ```pip install pyos``` e ```pip install pyrandom``` no terminal da sua IDE.
+Execute ```pip install pygame```, ```pip install pyos``` e ```pip install pyrandom``` no terminal do seu editor de códigos.
 
 Rode  o projeto no ▶️.
+
+> Obs: Deve-se ter o pip no path como variável de ambiente para instalação
   
 ## 💻 Desgin
 <p align="center">
