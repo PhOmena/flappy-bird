@@ -25,6 +25,8 @@ Rode  o projeto no ▶️.
 <img width="600" src="./assets/desk2.PNG" alt="screen2">  
 </p>
 
+> Obs: Em conclusão
+
 ---  
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/PhOmena" target="_blank">PhOmena</a></h4>
