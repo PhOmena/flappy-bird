@@ -1,7 +1,7 @@
 <h1 align="center">Flappy Bird</h1>
 <h1 align="center"><img width="80" src="https://imgur.com/EpQNGLE.png"></h1>
   
-<h3 align="center">Aplicação Desenvolvida com a <a href="">@Hashtag Programação</a> no curso: Como criar jogos em Python.</h2>
+<h3 align="center">Aplicação Desenvolvida com a <a href="">@Hashtag Programação</a></h3>
 
 ---
 
