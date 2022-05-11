@@ -19,8 +19,7 @@ Click on ▶️.
   
 ## 💻 About the project
 <p align="center">
-<img width="600" src="./assets/desk1.PNG" alt="screen1">  
-<img width="600" src="./assets/desk2.PNG" alt="screen2">  
+<img width="600" src="imgs/img1.png" alt="screen1">  
 </p>
 
 
