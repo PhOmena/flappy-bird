@@ -19,7 +19,7 @@ Click on ▶️.
   
 ## 💻 About the project
 <p align="center">
-<img width="600" src="imgs/img1.png" alt="screen1">  
+<img width="200" src="imgs/img1.png" alt="screen1">  
 </p>
 
 
