@@ -1,31 +1,28 @@
+⚠️ Project in conclusion
+
 <h1 align="center">Flappy Bird</h1>
 <h1 align="center"><img width="80" src="https://imgur.com/EpQNGLE.png"></h1>
   
-<h3 align="center">Aplicação Desenvolvida com a <a href="">@Hashtag Programação</a></h3>
+<h3 align="center">Application developed with <a href="">@Hashtag Programação</a> during the program "Python Impressionador".</h3>
 
----
-
-## 👨‍💻 Technologias Utilizadas
+## 👨‍💻 Technologies
 <p display="block" align="left">
   <a href="https://www.python.org/">Python</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.pygame.org/news">Pygame</a>
 </p>
 
-## Para rodar a aplicação
+## ✏️ Run the application 
 
-Execute ```pip install pygame```, ```pip install pyos``` e ```pip install pyrandom``` no terminal do seu editor de códigos.
+Execute ```pip install pygame```, ```pip install pyos``` and ```pip install pyrandom``` in your IDE's terminal.
 
-Rode  o projeto no ▶️.
-
-> Obs: Deve-se ter o pip no path como variável de ambiente para instalação
+Click on ▶️.
   
-## 💻 Desgin
+## 💻 About the project
 <p align="center">
 <img width="600" src="./assets/desk1.PNG" alt="screen1">  
 <img width="600" src="./assets/desk2.PNG" alt="screen2">  
 </p>
 
-> Obs: Em conclusão
 
 ---  
 
